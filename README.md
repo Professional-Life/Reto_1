@@ -7,6 +7,7 @@ Por favor, explica cómo tu función determinará la respuesta en términos de l
 
 
 ==============================================================================================================
+
 EXPLICACIÓN:
 La longitud del informe es sacado gracias a la cantidad de, ya sea, letras o palabras que estén en cada texto.
 Esto quiere decir, que si en el informe aparecen una cantidad de, por ejemplo, 18 palabras, de las cuales, 10 de ellas
@@ -18,4 +19,5 @@ construir el respectivo informe.
 
 Por lo tanto, si la cantidad de la revista, tanto en letras o en palabras, no satisface la cantidad de la nota, entonces no será
 posible escribir el informe deseado.
+
 ==============================================================================================================
